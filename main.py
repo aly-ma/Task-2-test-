@@ -1,6 +1,7 @@
 a=int(input("first num:  "))
 b=int(input("second num: "))
 c=int(input("third num:  "))
+d=int(input())
 def num (a,b,c):
  if a>b or a>c:
     print(a)
